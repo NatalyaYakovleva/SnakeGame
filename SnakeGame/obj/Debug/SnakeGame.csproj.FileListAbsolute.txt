@@ -1,0 +1,7 @@
+E:\VisualStudioCommunity\ConsoleApp\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe.config
+E:\VisualStudioCommunity\ConsoleApp\SnakeGame\SnakeGame\bin\Debug\SnakeGame.exe
+E:\VisualStudioCommunity\ConsoleApp\SnakeGame\SnakeGame\bin\Debug\SnakeGame.pdb
+E:\VisualStudioCommunity\ConsoleApp\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csprojAssemblyReference.cache
+E:\VisualStudioCommunity\ConsoleApp\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CoreCompileInputs.cache
+E:\VisualStudioCommunity\ConsoleApp\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
+E:\VisualStudioCommunity\ConsoleApp\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
